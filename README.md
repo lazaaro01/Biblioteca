@@ -1,0 +1,1 @@
+O Sistema de Gerenciamento de Biblioteca foi desenvolvido com o objetivo de facilitar a administração e o controle de recursos de uma biblioteca, incluindo livros, autores, usuários e empréstimos. O sistema centraliza todas essas informações em um banco de dados,permitindo uma gestão eficiente e organizada.
